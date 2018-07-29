@@ -1,4 +1,4 @@
-# Welcome to my Git PortFolio
+# Welcome to my Git Portfolio
 Here you can view and access many projects I realised.
 You can try to visit these pages :
 
